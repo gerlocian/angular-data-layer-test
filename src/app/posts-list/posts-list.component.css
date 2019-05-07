@@ -1,0 +1,8 @@
+table.post-list {
+  width: 100%;
+}
+
+table.post-list th {
+  background: #888;
+  text-align: left;
+}
